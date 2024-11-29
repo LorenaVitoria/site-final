@@ -1,0 +1,40 @@
+body{
+    margin: 0%;
+    height: 100vh;
+    background-image: url('https://marilindafernandes.adv.br/wp-content/uploads/2022/06/gettyimages-1200802368.jpg');
+    background-size: cover;
+    background-position: center;
+    color: rgba(88, 227, 255, 0.859);
+    font-family: 'Times New Roman',Times,serif;
+}
+.main{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+h1{
+    font-size: 64px;
+    margin: 0%;
+    color:rgb(193, 161, 56);
+}
+p{
+    border-top: solid 5px white ;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+}
+button{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+a{
+    font-weight: 700;
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(69, 28, 0);
+    background:linear-gradient(to bottom, rgb(191, 106, 26), rgba(255, 163, 51, 0.873));
+    border-radius: 12px;
+}
